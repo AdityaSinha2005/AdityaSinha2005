@@ -1,120 +1,113 @@
-# Hi there, I'm Aditya Sinha 👋
+<div align="center">
 
-### Computer Science Student | MERN Stack Developer | Java & DSA | Learning Data Engineering
+# 👋 Hi, I'm Aditya Sinha
+
+### 💻 MERN Stack Developer • ☕ Java & DSA • 🐍 Python • 📊 Learning Data Engineering
+
+*"Building real-world applications while continuously learning and improving."*
+
+</div>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 B.Tech CSE Student at KIIT University
-* 💻 Passionate about building scalable Full-Stack web applications
-* ☕ Solving Data Structures & Algorithms using Java
-* 🐍 Currently learning Python and Data Engineering
-* 🌱 Always exploring new technologies and building real-world projects
+🎓 B.Tech CSE Student at **KIIT University**
+
+💡 Passionate about building scalable full-stack applications with modern technologies.
+
+🌱 Currently learning **Python, ETL Pipelines, SQL, and Data Engineering** while improving my **Java DSA** skills.
+
+🎯 Aspiring **Software Development Engineer (SDE)** who enjoys solving problems and building impactful projects.
 
 ---
 
 ## 💻 Tech Stack
 
-**Languages**
+### 👨‍💻 Languages
 
-Java • JavaScript • Python • SQL • HTML • CSS
+`Java` • `JavaScript` • `Python` • `SQL` • `HTML` • `CSS`
 
-**Frontend**
+### ⚛️ Frontend
 
-React • Bootstrap • Tailwind CSS
+`React.js` • `Bootstrap` • `Tailwind CSS`
 
-**Backend**
+### 🛠 Backend
 
-Node.js • Express.js • REST APIs
+`Node.js` • `Express.js` • `REST APIs`
 
-**Database**
+### 🗄 Database
 
-MongoDB • MySQL
+`MongoDB` • `MySQL`
 
-**Tools**
+### 🔧 Tools
 
-Git • GitHub • Postman • VS Code • Render • Vercel
+`Git` • `GitHub` • `Postman` • `VS Code` • `Render` • `Vercel`
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 ### 🏠 StayNix
 
-An Airbnb-inspired accommodation listing platform.
+> Airbnb-inspired accommodation listing platform
 
-**Tech Stack:** MongoDB • Express.js • Node.js • EJS • Bootstrap • Cloudinary
-
-**Features**
-
-* User Authentication
-* Create, Edit & Delete Listings
-* Image Uploads
-* Reviews & Ratings
-* Search & Category Filters
-* Interactive Maps
+✨ User Authentication
+✨ Image Upload with Cloudinary
+✨ Reviews & Ratings
+✨ Interactive Maps
+✨ Search & Category Filters
 
 ---
 
 ### 📈 Stockora
 
-A Zerodha-inspired stock portfolio management platform.
+> Zerodha-inspired stock portfolio management platform
 
-**Tech Stack:** React • Node.js • Express.js • MongoDB
-
-**Features**
-
-* JWT Authentication
-* Portfolio Dashboard
-* REST APIs
-* Responsive UI
+✨ JWT Authentication
+✨ Portfolio Dashboard
+✨ REST APIs
+✨ Responsive UI
 
 ---
 
 ### 🎥 VoxMeet *(Currently Building)*
 
-A real-time video conferencing platform.
+> Real-time video conferencing platform
 
-**Tech Stack:** React • Node.js • Express.js • Socket.IO • WebRTC
-
-**Features**
-
-* Authentication
-* Real-Time Communication
-* Meeting Management
-* Screen Sharing *(Upcoming)*
+✨ Authentication
+✨ Socket.IO
+✨ WebRTC
+✨ Meeting Management
 
 ---
 
-### 🌤 SkyNova
+### 🌦 SkyNova
 
-A modern weather application using the OpenWeather API.
+> Weather application using OpenWeather API
 
-**Tech Stack:** React • API Integration
-
-**Features**
-
-* Live Weather Updates
-* Responsive UI
-* City Search
+✨ Live Weather Updates
+✨ API Integration
+✨ Responsive Interface
 
 ---
 
 ## 📚 Currently Learning
 
-* Java DSA
-* Python
-* Data Engineering
-* ETL Pipelines
-* SQL
+* ☕ Java DSA
+* 🐍 Python
+* 📊 Data Engineering
+* ⚡ ETL Pipelines
+* 🗄 SQL
 
 ---
 
-## 📫 Connect With Me
+## 🤝 Let's Connect
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
+📧 **Email**
+**[adityasinha123dba@gmail.com](mailto:adityasinha123dba@gmail.com)**
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 **LinkedIn**
+**https://www.linkedin.com/in/adityasinha2005**
 
-🌐 Portfolio: https://your-portfolio.com
+⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
