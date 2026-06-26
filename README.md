@@ -2,112 +2,142 @@
 
 # 👋 Hi, I'm Aditya Sinha
 
-### 💻 MERN Stack Developer • ☕ Java & DSA • 🐍 Python • 📊 Learning Data Engineering
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=MERN+Stack+Developer;Java+%7C+DSA+Enthusiast;Learning+Python+%26+Data+Engineering;Building+Real-World+Projects+🚀" />
 
-*"Building real-world applications while continuously learning and improving."*
+### 💻 Building scalable web applications while strengthening Java DSA and exploring Data Engineering.
+
+<br>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya%20Sinha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adityasinha2005)
+
+[![Email](https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adityasinha123dba@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 B.Tech CSE Student at **KIIT University**
+🎓 B.Tech Computer Science Student at **KIIT University**
 
-💡 Passionate about building scalable full-stack applications with modern technologies.
+💻 Passionate about building scalable Full-Stack Web Applications.
 
-🌱 Currently learning **Python, ETL Pipelines, SQL, and Data Engineering** while improving my **Java DSA** skills.
+☕ Solving **Data Structures & Algorithms using Java.**
 
-🎯 Aspiring **Software Development Engineer (SDE)** who enjoys solving problems and building impactful projects.
+🐍 Currently learning **Python, SQL, ETL Pipelines and Data Engineering.**
+
+🎯 Aspiring **Software Development Engineer (SDE).**
 
 ---
 
-## 💻 Tech Stack
+# 💻 Tech Stack
 
-### 👨‍💻 Languages
+<div align="center">
 
-`Java` • `JavaScript` • `Python` • `SQL` • `HTML` • `CSS`
+<img src="https://skillicons.dev/icons?i=java,js,python,html,css,react,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,github,postman,vscode" />
 
-### ⚛️ Frontend
-
-`React.js` • `Bootstrap` • `Tailwind CSS`
-
-### 🛠 Backend
-
-`Node.js` • `Express.js` • `REST APIs`
-
-### 🗄 Database
-
-`MongoDB` • `MySQL`
-
-### 🔧 Tools
-
-`Git` • `GitHub` • `Postman` • `VS Code` • `Render` • `Vercel`
+</div>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🏠 StayNix
+## 🏠 StayNix
 
-> Airbnb-inspired accommodation listing platform
+> Airbnb-inspired accommodation listing platform.
 
-✨ User Authentication
-✨ Image Upload with Cloudinary
-✨ Reviews & Ratings
+✨ Secure Authentication
+
+✨ Cloudinary Image Upload
+
 ✨ Interactive Maps
+
+✨ Reviews & Ratings
+
 ✨ Search & Category Filters
 
 ---
 
-### 📈 Stockora
+## 📈 Stockora
 
-> Zerodha-inspired stock portfolio management platform
+> Zerodha-inspired stock portfolio management platform.
 
 ✨ JWT Authentication
+
 ✨ Portfolio Dashboard
+
 ✨ REST APIs
-✨ Responsive UI
+
+✨ Responsive User Interface
 
 ---
 
-### 🎥 VoxMeet *(Currently Building)*
+## 🎥 VoxMeet *(Currently Building)*
 
-> Real-time video conferencing platform
+> Real-time video conferencing platform.
 
-✨ Authentication
-✨ Socket.IO
+✨ Authentication System
+
 ✨ WebRTC
+
+✨ Socket.IO
+
 ✨ Meeting Management
 
 ---
 
-### 🌦 SkyNova
+## 🌦 SkyNova
 
-> Weather application using OpenWeather API
+> Weather application powered by OpenWeather API.
 
 ✨ Live Weather Updates
+
+✨ Responsive Design
+
 ✨ API Integration
-✨ Responsive Interface
 
 ---
 
-## 📚 Currently Learning
+# 📚 Currently Learning
 
-* ☕ Java DSA
-* 🐍 Python
-* 📊 Data Engineering
-* ⚡ ETL Pipelines
-* 🗄 SQL
+- ☕ Java DSA
+- 🐍 Python
+- 📊 Data Engineering
+- ⚡ ETL Pipelines
+- 🗄 SQL
 
 ---
 
-## 🤝 Let's Connect
+# 📊 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=AdityaSinha2005&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=AdityaSinha2005&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AdityaSinha2005&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# 🤝 Let's Connect
 
 📧 **Email**
-**[adityasinha123dba@gmail.com](mailto:adityasinha123dba@gmail.com)**
+
+**adityasinha123dba@gmail.com**
 
 💼 **LinkedIn**
+
 **https://www.linkedin.com/in/adityasinha2005**
 
-⭐ *Thanks for visiting my profile! Feel free to explore my repositories and connect with me.*
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+*"Code. Learn. Build. Repeat."* 🚀
+
+</div>
